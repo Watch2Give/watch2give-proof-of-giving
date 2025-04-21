@@ -24,7 +24,7 @@ proof-of-giving/
 
 ---
 
-##  How It Works
+## How It Works
 
 1. **Upload Image**: Vendors submit an image proof via API.
 2. **Hashing**: The image is hashed using SHA256.
@@ -33,7 +33,7 @@ proof-of-giving/
 
 ---
 
-##  How to Run
+## How to Run
 
 ### 1. Install Requirements
 
@@ -54,7 +54,7 @@ Visit: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 ### `POST /upload`
 Upload a photo and receive a hash.
